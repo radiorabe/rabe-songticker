@@ -1,0 +1,16 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: rabe-songticker
+  title: Songticker
+  description: |
+    Songticker takes care of getting program associated data onto our airwaves.
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: radiorabe/rabe-songticker
+  links:
+    - url: https://songticker.rabe.ch
+      title: Frontend
+spec:
+  owner: it-reaktion
