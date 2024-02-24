@@ -14,3 +14,4 @@ metadata:
       title: Frontend
 spec:
   owner: it-reaktion
+  domain: broadcast
